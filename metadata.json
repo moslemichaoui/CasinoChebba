@@ -1,0 +1,6 @@
+{
+  "name": "Casino Chebba | كازينو الشابة - Resto-Café & Fruits de Mer",
+  "description": "Site officiel de Casino Chebba à La Chebba (Mahdia, Tunisie) - Resto-Café en bord de mer, fruits de mer frais, pizzas, réservation en ligne et livraison Allo Baya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
